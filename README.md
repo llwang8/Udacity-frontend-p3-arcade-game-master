@@ -1,5 +1,5 @@
 
-## Classic Arcade Game Clone
+# Classic Arcade Game Clone
 
 I recreated the classic arcade game Frogger using provided visual assets and a game loop engine. I added a number of entities to the game including the player characters and enemies and related methods applying concepts I learned from Objective Oriented JavaScript. [Check it out!](http://llwang8/github.io/Frontend-Udacity-arcade-game-frogger/)
 
